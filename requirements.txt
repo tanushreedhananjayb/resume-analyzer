@@ -43,3 +43,4 @@ tzdata
 
 # Optional: update pip during build (safe and silent)
 pip
+fpdf==1.7.2
